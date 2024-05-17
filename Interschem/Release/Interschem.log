@@ -1,0 +1,32 @@
+﻿  Interschem.cpp
+D:\Projects\Interschem\blocks.h(300,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Projects\Interschem\blocks.h(300,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Projects\Interschem\menu.h(114,37): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Projects\Interschem\menu.h(131,36): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+graphics.lib(winbgi.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Interschem.obj
+graphics.lib(winbgi.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Interschem.obj
+graphics.lib(winbgi.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+graphics.lib(misc.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Interschem.obj
+graphics.lib(misc.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Interschem.obj
+graphics.lib(drawing.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Interschem.obj
+graphics.lib(drawing.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Interschem.obj
+graphics.lib(text.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Interschem.obj
+graphics.lib(text.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Interschem.obj
+graphics.lib(mouse.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Interschem.obj
+graphics.lib(mouse.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Interschem.obj
+graphics.lib(winthread.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Interschem.obj
+graphics.lib(winthread.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Interschem.obj
+graphics.lib(file.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Interschem.obj
+graphics.lib(file.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Interschem.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+graphics.lib(winthread.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+graphics.lib(winbgi.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+graphics.lib(drawing.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+graphics.lib(text.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+graphics.lib(mouse.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+graphics.lib(winthread.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+graphics.lib(winbgi.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+graphics.lib(drawing.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+graphics.lib(text.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+graphics.lib(mouse.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+D:\Projects\Interschem\Release\Interschem.exe : fatal error LNK1120: 2 unresolved externals

@@ -1,0 +1,29 @@
+﻿  Interschem.cpp
+D:\Projects\Interschem\blocks.h(300,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Projects\Interschem\blocks.h(300,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Projects\Interschem\evaluator.h(73,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Interschem\evaluator.h(181,23): warning C4305: 'return': truncation from 'int' to 'float'
+D:\Projects\Interschem\evaluator.h(187,24): warning C4305: 'return': truncation from 'int' to 'float'
+D:\Projects\Interschem\evaluator.h(194,24): warning C4305: 'return': truncation from 'int' to 'float'
+D:\Projects\Interschem\evaluator.h(202,58): warning C4305: 'return': truncation from 'int' to 'float'
+D:\Projects\Interschem\evaluator.h(230,24): warning C4305: 'return': truncation from 'int' to 'float'
+D:\Projects\Interschem\evaluator.h(236,24): warning C4305: 'return': truncation from 'int' to 'float'
+D:\Projects\Interschem\evaluator.h(242,24): warning C4305: 'return': truncation from 'int' to 'float'
+D:\Projects\Interschem\evaluator.h(248,24): warning C4305: 'return': truncation from 'int' to 'float'
+D:\Projects\Interschem\evaluator.h(254,24): warning C4305: 'return': truncation from 'int' to 'float'
+D:\Projects\Interschem\evaluator.h(260,24): warning C4305: 'return': truncation from 'int' to 'float'
+D:\Projects\Interschem\evaluator.h(266,24): warning C4305: 'return': truncation from 'int' to 'float'
+D:\Projects\Interschem\evaluator.h(270,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Interschem\evaluator.h(271,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Interschem\evaluator.h(294,35): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Interschem\evaluator.h(300,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Interschem\evaluator.h(324,56): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+D:\Projects\Interschem\evaluator.h(326,74): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+D:\Projects\Interschem\evaluator.h(332,52): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+D:\Projects\Interschem\menu.h(115,37): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Projects\Interschem\menu.h(133,36): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Projects\Interschem\evaluator.h(295): warning C4715: 'performBiOperation': not all control paths return a value
+D:\Projects\Interschem\run.h(21): warning C4715: 'getStartIndex': not all control paths return a value
+D:\Projects\Interschem\evaluator.h(286): warning C4715: 'performUnarOperation': not all control paths return a value
+D:\Projects\Interschem\run.h(28): warning C4715: 'getStopIndex': not all control paths return a value
+  Interschem.vcxproj -> D:\Projects\Interschem\Debug\Interschem.exe
